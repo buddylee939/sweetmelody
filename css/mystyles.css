@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'SiteFont';
+  src: url('../fonts/remachine/RemachineScript_Personal_Use.ttf') format('truetype');
+}
+
+nav a {
+/*  padding: 20px 10px;
+  float: left;
+  color: yellow;
+  -webkit-transition: color 250ms ease-in;
+  -moz-transition: color 250ms ease-in;
+  -o-transition: color 250ms ease-in;
+  transition: color 250ms ease-in;*/
+/*	font-family: 'SiteFont', Fallback, sans-serif;  
+	font-size: 20px;*/
+}
+
+
+/*body {
+  font-family: 'MyWebFont', Fallback, sans-serif;
+}*/
